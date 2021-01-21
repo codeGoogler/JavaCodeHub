@@ -228,5 +228,5 @@
 
 ## 公众号
 
-欢迎关注微信公众号[【**Ccww技术博客**】](#公众号)，原创技术文章第一时间推出  ，并且获取更多资料和视频
-![](https://oscimg.oschina.net/oscnet/up-85f14b48ced93a26e459dcab1be2e4cb7db.png)
+欢迎关注微信公众号[【*终端研发部**】](#公众号)，原创技术文章第一时间推出  ，并且获取更多资料和视频
+![](https://upload-images.jianshu.io/upload_images/14371339-8bc3926bc154fda1.jpg)
